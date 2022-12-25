@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.list{
+    border:1px solid black;
+    border-radius: 18px;
+    margin: 10px;
+    padding: 8px;
+    border-collapse: collapse;
+
+}
